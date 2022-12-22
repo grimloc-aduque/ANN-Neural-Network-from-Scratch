@@ -9,9 +9,10 @@ Various ML concepts involving neural netrowks were developed from scratch using 
     * Exponential
     * Polinomial
     
-    
-    
-    
-* Classification neural networks
-  * Logistic Regression
-  * Multiclass classification
+# Classification neural networks
+* Logistic Regression
+* Multiclass classification
+  
+# Image classification
+* Kernels
+* Convolutions
