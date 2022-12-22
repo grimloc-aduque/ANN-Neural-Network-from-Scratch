@@ -1,0 +1,4 @@
+pip install nbconvert
+download nbconvert
+download miktex
+jupyter nbconvert --to pdf filePath
