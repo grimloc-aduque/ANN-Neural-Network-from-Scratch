@@ -2,6 +2,10 @@
 
 Several ML concepts involving neural networks were developed from scratch based on their mathematical derivation and mainly using numpy for programming.
 
+
+
+
+
 # Linear Regression Neural Networks 
 * Linear trends
 * Nonlinear trends
