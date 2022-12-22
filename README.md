@@ -9,6 +9,7 @@ Several ML concepts involving neural networks were developed from scratch based 
     * Exponential
     * Polinomial
     
+<img src="https://github.com/grimloc-aduque/ANN-Neural-Networks-from-Scratch/blob/main/Images/convolutions.png" style="width:200px;"/>
 
 
 # Classification neural networks
