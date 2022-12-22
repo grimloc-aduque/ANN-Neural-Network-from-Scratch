@@ -15,7 +15,7 @@ Several ML concepts involving neural networks were developed from scratch based 
 * Multiclass classification
 <img src="https://github.com/grimloc-aduque/ANN-Neural-Networks-from-Scratch/blob/main/Deber02%20-%20Classification%20-%20Nonlinear%20Frontiers/ej04.png" style="width:500px;"/>
   
-# Image classification
+# Convolutional Neural Networks
 * Kernels
 * Convolutions
 <img src="https://github.com/grimloc-aduque/ANN-Neural-Networks-from-Scratch/blob/main/Images/convolutions.png" style="width:500px;"/>
