@@ -11,7 +11,7 @@ Several ML concepts involving neural networks were developed from scratch based 
 * Nonlinear trends
     * Sinusoidal
     * Exponential
-    * Polinomial
+    * Polynomial
 <img src="https://github.com/grimloc-aduque/ANN-Neural-Networks-from-Scratch/blob/main/Images/polynomial_regression.png" style="width:500px;"/>
 
 # Classification Neural Networks
