@@ -1,6 +1,6 @@
 # ANN-Neural-Networks-from-Scratch
 
-Various ML concepts involving neural netrowks were developed from scratch using mostly numpy
+Several ML concepts involving neural networks were developed from scratch based on their mathematical derivation and mainly using numpy for programming.
 
 # Linear Regression neural networks 
 * Linear trends
@@ -9,6 +9,8 @@ Various ML concepts involving neural netrowks were developed from scratch using 
     * Exponential
     * Polinomial
     
+
+
 # Classification neural networks
 * Logistic Regression
 * Multiclass classification
